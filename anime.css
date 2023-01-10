@@ -1,0 +1,26 @@
+.imager{
+
+    border: 10pt solid black;
+}
+
+
+.feature{
+
+    align-items: center;
+    border: 2pt solid blueviolet;
+}
+
+
+.divider{
+
+    padding-left: 100px;
+    padding-top: 200px;
+}
+.tabler{
+    border: 2pt solid black;
+    font-size: large;
+    align-content: center;
+   
+    height: 100px;
+    width: 200px;
+}
