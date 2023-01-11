@@ -12,11 +12,16 @@
 }
 
 
-.divider{
+
+.logoimg{
+    display: block; 
+    margin: auto;
+}
+/* .divider{
 
     padding-left: 100px;
     padding-top: 200px;
-}
+} */
 .tabler{
     border: 2pt solid black;
     font-size: large;
