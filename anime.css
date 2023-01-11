@@ -26,7 +26,12 @@
     border: 2pt solid black;
     font-size: large;
     align-content: center;
+    font-family: cursive;
    
     height: 100px;
     width: 200px;
+}
+
+a{
+    text-decoration: none;
 }
